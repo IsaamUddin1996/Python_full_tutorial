@@ -1,0 +1,6 @@
+print("hi")
+print("Enter ur first no:")
+var = input()
+print("Enter ur 2nd no:")
+var1 = input()
+print("you add this:",int(var) + int (var1))
